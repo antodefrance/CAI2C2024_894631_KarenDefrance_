@@ -1,0 +1,9 @@
+C:\Users\karen\Desktop\CAI Practica\CAI_Practica_2C2024\bin\Debug\CAI_Practica_2C2024.exe.config
+C:\Users\karen\Desktop\CAI Practica\CAI_Practica_2C2024\bin\Debug\CAI_Practica_2C2024.exe
+C:\Users\karen\Desktop\CAI Practica\CAI_Practica_2C2024\bin\Debug\CAI_Practica_2C2024.pdb
+C:\Users\karen\Desktop\CAI Practica\CAI_Practica_2C2024\obj\Debug\CAI_Practica_2C2024.csproj.AssemblyReference.cache
+C:\Users\karen\Desktop\CAI Practica\CAI_Practica_2C2024\obj\Debug\CAI_Practica_2C2024.MiPrimerForm.resources
+C:\Users\karen\Desktop\CAI Practica\CAI_Practica_2C2024\obj\Debug\CAI_Practica_2C2024.csproj.GenerateResource.cache
+C:\Users\karen\Desktop\CAI Practica\CAI_Practica_2C2024\obj\Debug\CAI_Practica_2C2024.csproj.CoreCompileInputs.cache
+C:\Users\karen\Desktop\CAI Practica\CAI_Practica_2C2024\obj\Debug\CAI_Practica_2C2024.exe
+C:\Users\karen\Desktop\CAI Practica\CAI_Practica_2C2024\obj\Debug\CAI_Practica_2C2024.pdb

@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Windows.Forms;
 
 namespace CAI_Practica_2C2024
 {
@@ -10,6 +11,10 @@ namespace CAI_Practica_2C2024
     {
         static void Main(string[] args)
         {
+
+            Application.EnableVisualStyles();
+            Application.SetCompatibleTextRenderingDefault(false);
+            Application.Run(new MiPrimerForm());
         }
     }
 }
